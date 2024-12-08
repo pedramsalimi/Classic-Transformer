@@ -1,0 +1,14 @@
+{
+    "SRC_VOCAB_SIZE": 20,
+    "TGT_VOCAB_SIZE": 20,
+    "EMBED_DIM": 32,
+    "NUM_HEADS": 4,
+    "FF_DIM": 64,
+    "ENC_LAYERS": 2,
+    "DEC_LAYERS": 2,
+    "DROPOUT": 0.1,
+    "LEARNING_RATE": 0.001,
+    "EPOCHS": 2,
+    "MAX_LEN": 50
+  }
+  
